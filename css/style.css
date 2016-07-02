@@ -2,7 +2,16 @@
   margin-top: 10px;
 }
 
-.box {
-  border: 1px solid black;
+.col-md-4 {
+  border: 5px solid black;
   height: 150px;
+}
+
+.box {
+  border: 2px solid black;
+  height: 150px;
+}
+
+.row {
+  border: 1px solid black;
 }
